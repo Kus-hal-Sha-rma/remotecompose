@@ -155,14 +155,14 @@
     {
       "type": "spacer",
       "id": "22",
-      "height": 8
+      "height": 40
     },
     {
       "type": "text",
-      "id": "23",
-      "text": "Change anything from the browser. No app update needed.",
-      "color": "#9CA3AF",
-      "fontSize": 12
+      "id": "52",
+      "text": "SERVER UI",
+      "color": "#2E6141",
+      "fontSize": 30
     }
   ]
 }

@@ -11,14 +11,7 @@
     {
       "type": "spacer",
       "id": "2",
-      "height": 4
-    },
-    {
-      "type": "text",
-      "id": "3",
-      "text": "Server-driven UI, rendered natively",
-      "color": "#7E57C2",
-      "fontSize": 14
+      "height": 100
     },
     {
       "type": "spacer",
@@ -163,6 +156,11 @@
       "text": "SERVER UI",
       "color": "#2E6141",
       "fontSize": 30
+    },
+    {
+      "type": "spacer",
+      "id": "53",
+      "height": 16
     }
   ]
 }

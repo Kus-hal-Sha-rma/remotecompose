@@ -10,11 +10,6 @@
     },
     {
       "type": "spacer",
-      "id": "2",
-      "height": 1000
-    },
-    {
-      "type": "spacer",
       "id": "4",
       "height": 20
     },
